@@ -17,7 +17,7 @@
   "from": "movies_metadata",
   "localField": "id",
   "foreignField": "id",
-  "as": "Film"
+  "as": "movies"
 }
 ```
 
